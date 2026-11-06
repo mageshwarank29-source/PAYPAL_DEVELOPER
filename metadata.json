@@ -1,0 +1,6 @@
+{
+  "name": "PayPal Developer & AI Assistant",
+  "description": "Contextual PayPal Developer Portal with real-time Sandbox ledger, interactive JS/React SDK playground, and an intelligent AI Assistant for developer guidance and payment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
